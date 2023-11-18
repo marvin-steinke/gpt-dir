@@ -1,0 +1,5 @@
+/build/
+/.venv/
+/.vscode/
+/dist/
+/gpt_dir.egg-info/
